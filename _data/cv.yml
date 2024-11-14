@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Filippo Magi
     - name: Date of Birth
-      value: 14th March 1879
+      value: 13th July 1999
     - name: Languages
-      value: English, German
+      value: Italian (native), English (fluent)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master Degree
+      institution: Università degli studi di Milano, Milan, Italy
+      year: 2025
       description:
         - Description 1.
         - Description 2.
@@ -21,12 +21,13 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor Degree
+      institution: Università degli studi di Milano, Milan, Italy
+      year: 2022
+      -title: Thesis
       description:
-        - Description 1.
-        - Description 2.
+        - Bachelor Thesis: "Bidirectional algorithms for network flow problems"
+        - Advisor: Prof. Giovanni Righini
 
 - title: Experience
   type: time_table
@@ -94,4 +95,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> TTRPG, etc.
