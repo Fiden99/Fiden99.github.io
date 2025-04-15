@@ -118,6 +118,20 @@
       "startDate": "2021-09-01",
       "endDate": "2022-04-12",
       "url": "https://github.com/Fiden99/tesi--Algoritmi-bi-direzionali-per-problemi-di-flusso-su-rete"
+    },
+    {
+      "name": "Methods for traffic management in  urban air mobility",
+      "summary": "My master degree thesis.",
+      "highlights": [
+        "eVTOL",
+        "Mixed Integer Linear Programming",
+        "Heuristic algorithms",
+        "Combinatorial optimization",
+        "Urban air mobility"
+      ],
+      "startDate": "2024-09-01",
+      "endDate": "2025-04-11",
+      "url": "https://github.com/Fiden99/UAMdeconflictionMasterThesis"
     }
   ]
 }
