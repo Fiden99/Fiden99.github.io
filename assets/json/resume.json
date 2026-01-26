@@ -47,7 +47,7 @@
       "studyType": "Master",
       "startDate": "2022-09-01",
       "endDate": "2025-04-12",
-      "score": "",
+      "score": "110/110 cum Laude",
       "courses": [
         "Algorithms and Complexities",
         "Parallel and Distributed Algorithms",
@@ -63,6 +63,15 @@
         "Simulation",
         "Formal language theory"
       ]
+    },
+    {
+      "institution": "Università degli studi di Pisa, Pisa, Italia",
+      "location": "Pisa, Italy",
+      "url": "https://www.di.unipi.it/",
+      "area": "Computer Science Department",
+      "studyType": "PhD",
+      "startDate": "2025-11-01",
+      "endDate": "2028"
     }
   ],
   "awards": [],
@@ -75,6 +84,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Java",
+        "C",
         "C++",
         "SQL",
         "Ampl",
@@ -91,6 +101,11 @@
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
@@ -132,6 +147,17 @@
       "startDate": "2024-09-01",
       "endDate": "2025-04-11",
       "url": "https://github.com/Fiden99/UAMdeconflictionMasterThesis"
+    },
+    {
+      "name": "Rabax on SMS++",
+      "summary": "Implementation of the Relaxation agnostic branch and bound on SMS++ framework.",
+      "highlights": [
+        "Mixed Integer Linear Programming",
+        "Branch and Bound",
+        "Combinatorial optimization"
+      ],
+      "startDate": "2025-11-03",
+      "url": "https://github.com/Fiden99/testBnBKnapsack"
     }
   ]
 }
