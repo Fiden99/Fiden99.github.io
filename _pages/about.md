@@ -1,13 +1,13 @@
 ---
 layout: about
-title: Filippo Magi's Homepage
+title: Homepage
 permalink: /
-subtitle: <a href='https://www.unipi.it'>University of Pisa</a>. Largo B. Pontecorvo, 3. <a href='mailto:filippo.magi@phd.unipi.it'>filippo.magi@phd.unipi.it</a>. 
+subtitle: <a href =https://commalab.di.unipi.it/>commalab</a>, <a href='https://www.unipi.it'>University of Pisa</a>, <a href='https://www.di.unipi.it'>Computer Science Department</a>, Largo B. Pontecorvo, 3,  <a href='mailto:filippo.magi@phd.unipi.it'>filippo.magi@phd.unipi.it</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
     <p> Largo B. Pontecorvo, 3 </p>
@@ -15,11 +15,12 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Filippo Magi, PhD Candidate at University of Pisa.
+Filippo Magi, PhD Student/Candidate at University of Pisa.
 Working with [Antonio Frangioni](https://pages.di.unipi.it/frangio/) regarding optimization of large scale energy system.
+Actually working on [SMS++](https://smspp.gitlab.io/) project on MILP optimization.
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
