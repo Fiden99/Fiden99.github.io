@@ -18,9 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Filippo Magi, PhD Student/Candidate at University of Pisa.
-Working with [Antonio Frangioni](https://pages.di.unipi.it/frangio/) regarding optimization of large scale energy system.
-Actually working on [SMS++](https://smspp.gitlab.io/) project on MILP optimization.
+Filippo Magi, PhD student in Computer Science at the University of Pisa, focusing on Operations Research.
+Working with [Antonio Frangioni](https://pages.di.unipi.it/frangio/) on optimization of large-scale energy systems. Currently working on the [SMS++ project](https://smspp.gitlab.io/) on Branch-and-Bound and MILP optimization.
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
