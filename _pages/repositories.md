@@ -35,6 +35,18 @@ nav_order: 4
 {% endif %}
 {% endif %}
 
+{% if site.gitlab_username %}
+
+## GitLab
+
+{% include repository/gitlab_user.liquid username=site.gitlab_username %}
+
+<script defer src="{{ '/assets/js/gitlab-stats.js' | relative_url | bust_file_cache }}"></script>
+
+---
+
+{% endif %}
+
 {% if site.data.repositories.github_repos %}
 
 ## GitHub Repositories

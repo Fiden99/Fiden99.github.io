@@ -14,6 +14,11 @@ been invented.
 - `_projects/smspp.md`, `_projects/urban-air-mobility.md`, and
   `_projects/network-flow.md`: real research and thesis projects.
 - `_data/repositories.yml`: repositories displayed on the site.
+- `_includes/repository/gitlab_user.liquid` and `assets/js/gitlab-stats.js`:
+  live GitLab statistics for `_config.yml`'s `gitlab_username`. The card uses
+  unauthenticated public API requests, paginates results, and falls back to a
+  profile link on failure. Personal project and star counts cover the user's
+  personal namespace; contributed projects cover the past year, including groups.
 - `_pages/cv.md`: downloadable PDF selection. Confirm that this PDF stays current.
 
 Public contacts: university email, GitHub, LinkedIn, GitLab, and Discord.

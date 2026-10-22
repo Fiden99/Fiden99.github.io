@@ -1,0 +1,27 @@
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  <section class="repo p-2 w-100" data-gitlab-stats data-gitlab-username="{{ include.username | escape }}" aria-label="GitLab statistics">
+    <div class="card p-4 text-left">
+      <h3 class="h5 mb-3">
+        <a href="https://gitlab.com/{{ include.username | uri_escape }}" target="_blank" rel="noopener noreferrer">
+          <i class="fa-brands fa-gitlab" aria-hidden="true"></i> {{ include.username | escape }}'s GitLab stats
+        </a>
+      </h3>
+      <dl class="mb-0" data-gitlab-metrics hidden>
+        <div class="d-flex justify-content-between mb-2">
+          <dt class="font-weight-normal pr-3">Public personal projects</dt>
+          <dd class="font-weight-bold mb-0" data-gitlab-personal></dd>
+        </div>
+        <div class="d-flex justify-content-between mb-2">
+          <dt class="font-weight-normal pr-3">Contributed projects (past year)</dt>
+          <dd class="font-weight-bold mb-0" data-gitlab-contributed></dd>
+        </div>
+        <div class="d-flex justify-content-between mb-2">
+          <dt class="font-weight-normal pr-3">Stars on personal projects</dt>
+          <dd class="font-weight-bold mb-0" data-gitlab-stars></dd>
+        </div>
+      </dl>
+      <p class="small mb-0" role="status" data-gitlab-status>Public GitLab profile and project activity.</p>
+      <noscript><p class="small mb-0">Enable JavaScript to load live statistics.</p></noscript>
+    </div>
+  </section>
+</div>
