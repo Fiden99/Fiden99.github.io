@@ -6,9 +6,9 @@ subtitle: <a href="https://commalab.di.unipi.it/">CoMMa Lab</a> · <a href="http
 
 profile:
   align: right
-  image: # add a personal portrait filename when available
+  image: profile.jpg
   image_alt: Filippo Magi
-  image_circular: true # crops the image to make it circular
+  image_circular: false # display the image with square corners
   more_info: >
     <p>Largo B. Pontecorvo, 3</p>
     <p>56127 Pisa, Italy</p>
